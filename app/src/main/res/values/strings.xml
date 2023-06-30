@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Civil Advocacy</string>
+    <string name="about">About</string>
+    <string name="set_location">Set Location</string>
+    <string name="no_data">No Data For Location</string>
+    <string name="civil_advocacy">Civil Advocacy</string>
+    <string name="data_provided_by">Data provided by</string>
+    <string name="google_civic_information_api"><u>Google Civic Information API</u></string>
+    <string name="no_internet"><b>No Network Connection</b> \nData cannot be accessed/loaded \nwithout an internet connection. </string>
+    <string name="_2023_kevin_quach">© 2023, Kevin Quach</string>
+    <string name="version_1_0">Version 1.0</string>
+</resources>
